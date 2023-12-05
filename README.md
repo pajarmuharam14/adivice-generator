@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advicegenerator-h-w4SHtsE3)
 - Live Site URL: [Add live site URL here](https://advice-generator-three-delta.vercel.app/)
 
 ## My process
